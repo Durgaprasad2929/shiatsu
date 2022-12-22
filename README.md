@@ -34,6 +34,27 @@ Azure Project Link: https://victorious-tree-098eb1810.2.azurestaticapps.net/
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+# Azure Resources,Static Webapp,Healthbot:
+
+Azure Resources:
+![Azure resources page](https://user-images.githubusercontent.com/118153711/209093890-26ecafd7-7bf8-484c-bd1d-54dba9e55b4d.jpg)
+
+Azure Static webapp:
+![Azure static webapp](https://user-images.githubusercontent.com/118153711/209093972-4981a203-f674-4f6e-81d8-d7a38a428a7b.jpg)
+
+Azure Healthbot:
+![Azure healthbot](https://user-images.githubusercontent.com/118153711/209094131-e9b82078-fd65-47b6-ae39-ac3f00b1a491.jpg)
+
+Azure Healthbot Scenario management:
+![Azure health bot scenario management](https://user-images.githubusercontent.com/118153711/209094219-49591411-03ab-4b17-b46d-8048b237e6e5.jpg)
+
+Azure heatlh bot Test in Webchat:
+![test in webchat1](https://user-images.githubusercontent.com/118153711/209094330-9a1cbca3-d8e2-46e1-a7da-a58cc36e5b6e.jpg)
+
+![test in webchat2](https://user-images.githubusercontent.com/118153711/209094370-cf4d7c61-0c7f-4eec-9a51-fe6fd7b82a45.jpg)
+
+![test in webchat3](https://user-images.githubusercontent.com/118153711/209094408-46d090ce-5bdc-4ee6-b8e7-4d3f25addb91.jpg)
+
 Project Screenshots:
 
 Home page
